@@ -4,6 +4,7 @@ d ''JB': module to perform Jarque-Bera test for normality on series
 d 'lmnjb': Jarque-Bera Non Normality Lagrange Multiplier Test
 d 'lmnjbnl': NLS Non Normality Jarque-Bera Test
 d 'lmnjbxt': Panel Data Non Normality Jarque-Bera Test
+d 'xtsktest': Tests for skewness and kurtosis in the one-way error-components model
 f jb.ado
 f jb.hlp
 f jb6.ado
@@ -19,3 +20,6 @@ f lmnjbxt.dlg
 f lmnjbxt.sthlp
 f zscore.ado
 f zscore.hlp
+f xtsktest.ado
+f xtsktest.sthlp
+f _xtsktest_calculations.ado
