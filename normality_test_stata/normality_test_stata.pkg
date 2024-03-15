@@ -1,6 +1,9 @@
 d 'Normality Test STATA': module to perform Normality Test STATA
 d ''JB6': modules to perform Jarque-Bera test for normality
 d ''JB': module to perform Jarque-Bera test for normality on series
+d 'lmnjb': Jarque-Bera Non Normality Lagrange Multiplier Test
+d 'lmnjbnl': NLS Non Normality Jarque-Bera Test
+d 'lmnjbxt': Panel Data Non Normality Jarque-Bera Test
 f jb.ado
 f jb.hlp
 f jb6.ado
